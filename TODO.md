@@ -25,4 +25,4 @@ GET /pairs/:id
     -accept pair
 
 PATCH /pairs/:id
-    -  
+    - (TBD)
